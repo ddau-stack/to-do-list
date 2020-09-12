@@ -1,0 +1,32 @@
+html {
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+}
+
+body {
+	background-color: #4a00cc;
+}
+
+h1 {
+	font-size: 80px;
+	margin-left: 20px;
+}
+
+ul {
+	font-size: 50px;
+	margin-left: 30px;
+}
+
+li {
+	margin-top: 20px;
+}
+
+.input {
+	display: block;
+	margin: 0 auto;
+}
+
+button {
+	display: block;
+	margin: 10px auto 0 auto;
+}
